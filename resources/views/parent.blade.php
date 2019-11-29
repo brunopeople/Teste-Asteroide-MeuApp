@@ -13,7 +13,7 @@
 		<br/>
 	<h3 align="center">Meu App</h3>
 		<br/>
-		@yiedl('main')
+		@yield('main')
 	</div>
 </body>
 </html>
