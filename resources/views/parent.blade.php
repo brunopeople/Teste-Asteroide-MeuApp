@@ -11,9 +11,9 @@
 <body>
 	<div class="container">
 		<br/>
-	<h3 align="center">Meu App</h3>
+		  <h3 align="center">Meu App</h3>
 		<br/>
 		@yield('main')
-	</div>
-</body>
+	 </div>
+	</body>
 </html>
